@@ -17,3 +17,6 @@ Electric-Vehicle-Analysis Tableau Dashboard Project
 **Tools used:**
 
 MS Excel,Tableau
+
+**Dashboard**
+![EV Screenshot](https://github.com/user-attachments/assets/e69e25da-1865-4fd9-afaa-71292aed69ce)
